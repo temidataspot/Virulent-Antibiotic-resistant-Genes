@@ -23,4 +23,4 @@ Contact Admin [email](mailto:globaltemi98@gmail.com) for data
 
 # Analysis Interpretation
 
-- Interpretation
+- [Interpretation](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/Interpretation.md)

@@ -96,7 +96,7 @@ title(main = "Comparing Virulence and Resistance Genes in A. hydrophila")
 legend(x = "topright", legend = c("Virulence genes", "Resistance genes"), 
        fill = c(rgb(0.2, 0.5, 0.5, 0.5), rgb(0.8, 0.2, 0.5, 0.5)), cex = 0.8)
 ```
-[image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.hydrophila.png)
+![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.hydrophila.png)
 
 # Aeromonas Caviae
 

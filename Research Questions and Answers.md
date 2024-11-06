@@ -182,6 +182,7 @@ title(main = "Comparing Virulence and Resistance Genes in A. caviae")
 legend(x = "topright", legend = c("Virulence genes", "Resistance genes"), 
        fill = c(rgb(0.2, 0.5, 0.5, 0.5), rgb(0.8, 0.2, 0.5, 0.5)), cex = 0.8)
 ```
+![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.caviae.png)
 
 # Aeromas Veroni
 
@@ -268,6 +269,7 @@ title(main = "Comparing Virulence and Resistance Genes in A. veroni")
 legend(x = "topright", legend = c("Virulence genes", "Resistance genes"), 
        fill = c(rgb(0.2, 0.5, 0.5, 0.5), rgb(0.8, 0.2, 0.5, 0.5)), cex = 0.8)
 ```
+![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.veroni.png)
 
 # Aeromonas allosaccharophila
 
@@ -354,6 +356,7 @@ title(main = "Comparing Virulence and Resistance Genes in A. allosaccharophila")
 legend(x = "topright", legend = c("Virulence genes", "Resistance genes"), 
        fill = c(rgb(0.2, 0.5, 0.5, 0.5), rgb(0.8, 0.2, 0.5, 0.5)), cex = 0.8)
 ```
+![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.allosaccharophila.png)
 
 # Aeromonas dhakensis
 
@@ -440,7 +443,7 @@ title(main = "Comparing Virulence and Resistance Genes in A. dhakensis")
 legend(x = "topright", legend = c("Virulence genes", "Resistance genes"), 
        fill = c(rgb(0.2, 0.5, 0.5, 0.5), rgb(0.8, 0.2, 0.5, 0.5)), cex = 0.8)
 ```
-
+![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/A.dhakensis.png)
 
 
 

@@ -4,7 +4,8 @@
 # Table of Contents
 - Overview
 - Available Data
-- Research Questions and Answers
+- Research Questions and Analytical Solutions
+- Analysis Interpretation
 
 # Overview
 This  is a comparative analysis that compares virulent and antibiotic-resistant genes in five Aeromonas species. 
@@ -13,5 +14,6 @@ The resistant genes considered include TET_A, TET_B, AMP_C, blaCTX-M, bla-SHV, b
 
 # Available Data
 
-# Research Questions and Answers
+# Research Questions and Analytical Solutions
 
+# Analysis Interpretation

@@ -1,5 +1,4 @@
 # Comparative Analysis of Virulent and Antibiotic-resistant-Genes
-![image](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes/blob/main/radarchart.png)
 
 # Table of Contents
 - [Overview](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes#overview)
